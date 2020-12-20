@@ -1,12 +1,11 @@
 # Convolutional Neural Networks for binary classification of Solar Flares
-![sf](https://user-images.githubusercontent.com/55837093/102723811-1b7fe580-430b-11eb-96ce-11be02606321.jpg)//
+![sf](https://user-images.githubusercontent.com/55837093/102723811-1b7fe580-430b-11eb-96ce-11be02606321.jpg)
 
 
 
-_Hello you! This is my project about Convolutional Neural Networks for binary classification of Solar Flares. If you are interested in the general project and want to know how technology can help astrophysics without any knowledge domain, please go ahead and read chapter 1.
-If you are not interested in the theoretical background of this project, but want to know more about Python, AI and Machine Learning techniques, please skip the first part and move to chapter 2 to discover how to move in the repository and reproduce the compuational experiment.
-If you are interested in both you are just perfect. :) 
-Get an idea of what is the idea of the project in chapter 1, and deepen the computational effort and challenges in chapter 2. 
+_Hello you! This is my project about Convolutional Neural Networks for binary classification of Solar Flares. If you are interested in the general project and want to know how technology can help astrophysics without any knowledge domain, please go ahead and read chapter 1./
+If you are not interested in the theoretical background of this project, but want to know more about Python, AI and Machine Learning techniques, please skip the first part and move to chapter 2 to discover how to move in the repository and reproduce the compuational experiment./
+If you are interested in both you are just perfect. :) Get an idea of what is the idea of the project in chapter 1, and deepen the computational effort and challenges in chapter 2. 
 Welcome aboard,skipper._ 
 
 ## 1. About the project
