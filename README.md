@@ -31,7 +31,7 @@ Anyway they are really similar, and the accuracy is similar too:
 ## 2. About the code
 I'm not going to lie on this one. Data extraction was the most intense job. The development of the CNNs was preatty easy as there are well known structures that do an excellent job in terms of image classification. As we are full of physical information about solar flares it was preatty hard to find raw images of the Solar Flares. An important section of this report is occupied by Web Scraping. 
 
-### 2.1 Software
+### 2.1 Software
 The language is exclusively Python. __Keras__ libraries were used in order to implement the CNNs, __Pandas__ to data visualization and handling, __matplotlib__ for image data visualization. __PIL__ was used to treat images. __Selenium__ was used to navigate into Chrome with Python. 
 
 ### 2.2 "Codes" 
