@@ -7,8 +7,7 @@ Sofisticated techniques have been developed to determine, predict and analyze So
 ## The Challenge
 The challenge of this GitHub Repository is to perform a __binary classification directly on Solar Magnetogram images__, without having no additional information about the Sun magnetic behavior. 
 
-![Alt text](/Users/pierohmd/Desktop/sf.jpg?raw=true "Title")
-
+![Alt text](/Users/pierohmd/Desktop/sf.jpg)
 
 ## The tool 
 The tool that have been used during this process is the one of 
