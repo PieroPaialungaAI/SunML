@@ -1,5 +1,5 @@
-# Here comes the Sun, literally, with Machine Learning 
-The Sun is the most important star for our planet, as it permits to have life as we know it. Like the Earth, the Sun has its own magnetic cycle, and after a certain period (22 years) the magnetical behavior changes. Nonetheless, even if we know we can model the Earth magnetical properties with two single poles, a north and a sud, the magnetical properties of the Sun are not that simple, and the magnetical properties of the Sun are a deep study topic. Anyway, this is not "just" out of  curiosity. In fact, when the Sun is particularly magnetically active in its cicle, dangerous physical phenomena happen, and they can disturb our communication system or destroy the satellites (if we are lucky and they don't hurt people). 
+# Convolutional Neural Networks for binary classification of Solar Flares
+The Sun is the most important star for our planet, as it permits to have life as we know it. One of the most important phenomena of Sun magnetical activity is the one of the  \href{https://en.wikipedia.org/wiki/Solar_flare}{Solar Flares}.    
 
 ## The Challenge
 
