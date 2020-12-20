@@ -46,9 +46,9 @@ The cross-check of the available data is obtained in what is called __AvailableD
 The last CSV regards the labels and the images links required for the second convolutional network and it is calles __arsolarflaredata.csv__
 
 ### 2.4 Images
-The images that are used to train both the first and the second CNNs are used.
-* __ActNoAct__ collects the images for the Active/Not active classification 
-* __SolarFlaresAR__ collects the images for the Sun Flares/Active region classification
+The images that are used to train both the first and the second CNNs are collected. As they were a lot, I've uploaded just 5 of them, but if you follow the scraping procedure of the notebooks you can collect how many image you want. (I've used 10^2 images for both classification for computational necessities). 
+* __ActNoActexample__ collects the images for the Active/Not active classification 
+* __SolarFlaresARexample__ collects the images for the Sun Flares/Active region classification
 
 # About you
 What do you guys think about it? How can this approach be further expanded? What are your thoughts? Please let me know or hit me at:
